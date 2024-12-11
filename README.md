@@ -22,7 +22,7 @@ A modern task management application built with Astro, Svelte, and OpenAI integr
 1. Clone the repository:
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/nik-share/task_manager.git
 ```
 
 2. Install dependencies:
